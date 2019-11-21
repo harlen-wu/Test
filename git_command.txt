@@ -1,0 +1,5 @@
+git add .						//提交目录下所有的文件到缓存区
+git add <File>					//提交具体文件到缓存区
+git commit -m "写点信息在这里" 	//提交文件到本地版本库
+git status 						//查看git当前的操作状态
+git checkout -- <File>			//取消对file的操作
